@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/MySQL-MariaDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/HTML5-CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS">
   <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge" alt="MIT License">
-  <img src="https://img.shields.io/github/stars/mfarrukhjaved-381/ATM_Machine-Dashboard?style=for-the-badge&color=brightgreen" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/mfarrukhjaved-381/atm_machine_dashboard?style=for-the-badge&color=brightgreen" alt="GitHub Stars">
 </p>
 
 # ATM Machine Dashboard
